@@ -1,0 +1,29 @@
+header, footer {
+    background-color: pink;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    
+}
+h2 {
+    color: darkgoldenrod;
+    font-weight: bold;
+}
+.All {
+    color: gold;
+}
+#P {
+    color:red;
+}
+nav {
+    background-color: black;
+}
+
+section, article {
+    padding: 10px;
+    background-color: blanchedalmond;
+}
+img {
+    height: 50%;
+    width: 50%;
+}
